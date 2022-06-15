@@ -1,0 +1,12 @@
+
+public class TestaCodigo {
+
+	public static void main(String[] args) {
+		Funcionario sam = new Funcionario();
+		sam.setNome("Samuel");
+		sam.setCpf("492098539-23");
+		sam.setSalario(1000);
+
+	}
+
+}
