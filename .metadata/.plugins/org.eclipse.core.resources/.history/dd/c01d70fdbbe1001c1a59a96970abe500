@@ -1,9 +1,0 @@
-
-public class TestaCodigo {
-
-	public static void main(String[] args) {
-		Funcionario sam = new Funcionario();
-
-	}
-
-}
